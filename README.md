@@ -345,7 +345,7 @@ time.
 Just don't forget: with `while`, make sure you are updating the condition
 on each loop so that the loop eventually terminates!
 
-## Assignment
+Assignment
 
 To get more acquainted with `while`, your task is to write a function,
 `countDown`, that takes in any positive integer and, starting from that number,
